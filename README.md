@@ -44,7 +44,7 @@
 
 ## 💻 Project
 
-### ForenShield AI &nbsp;[🔗](https://github.com/kimini02/저장소명)
+### ForenShield AI &nbsp;[🔗](https://github.com/kimini02/forenshield-ai-portfolio)
 > AI 기반 딥페이크 탐지 및 블록체인 기반 디지털 증거 무결성 검증 플랫폼 &nbsp;·&nbsp; 팀 프로젝트 &nbsp;·&nbsp; 2026.05 ~ 2026.07
 
 - **보고서 발급** — RabbitMQ로 PDF 생성을 비동기 분리해 응답 시간 __s → __ms 단축
