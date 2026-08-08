@@ -51,7 +51,7 @@
 - **조회 성능** — 커서 페이징 + N+1 제거로 목록 조회 __s → __ms 개선 (데이터 __만 건 기준)
 - **인증/인가** — JWT 무상태 구조 + Role 기반 접근 제어(RBAC)
 
-### ERP 시스템 &nbsp;[🔗](https://github.com/kimini02/저장소명)
+### ERP 시스템 &nbsp;[🔗](https://github.com/kimini02/mini-erp-system)
 > (한 줄 소개) &nbsp;·&nbsp; 팀 프로젝트 &nbsp;·&nbsp; 2026.0X ~ 2026.0X
 
 - (핵심 구현 1)
