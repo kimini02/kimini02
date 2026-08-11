@@ -14,9 +14,7 @@
 
 <br>
 
-## 🔗 Links
-
-📝 [개발 Blog](https://mini-0923.tistory.com/)
+[개발 Blog](https://mini-0923.tistory.com/)
 
 <br>
 
