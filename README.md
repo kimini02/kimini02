@@ -48,12 +48,12 @@
 
 ## 💻 Project
 
-### ForenShield AI &nbsp;[🔗](https://github.com/kimini02/forenshield-ai-portfolio) 
-> AI 기반 딥페이크 탐지 및 블록체인 기반 디지털 증거 무결성 검증 플랫폼 &nbsp;·&nbsp; 팀 프로젝트  &nbsp;·&nbsp; 2026.05 ~ 2026.07  &nbsp;·&nbsp; 최우수상 
+### ForenShield AI &nbsp;[🔗](https://github.com/kimini02/forenshield-ai-portfolio)
+> AI 기반 딥페이크 탐지 및 디지털 증거 무결성 검증 플랫폼 &nbsp;·&nbsp; 팀 프로젝트 &nbsp;·&nbsp; 2026.05 ~ 2026.07 &nbsp;·&nbsp; 최우수상
 
-- **보고서 발급** — RabbitMQ로 PDF 생성을 비동기 분리해 응답 시간 __s → __ms 단축
-- **조회 성능** — 커서 페이징 + N+1 제거로 목록 조회 __s → __ms 개선 (데이터 __만 건 기준)
-- **인증/인가** — JWT 무상태 구조 + Role 기반 접근 제어(RBAC)
+- **조회 성능** — 사건 목록 조회 범위를 DB Paging으로 줄여 p95 3.23s → 0.40s 개선
+- **보고서 발급** — PDF·Blockchain 처리를 별도 작업으로 분리해 5초 외부 지연 시 승인 Transaction 5,172ms → 16ms
+- **중복 방지** — 동시 승인 10건에서 발급 Task가 10건 생성되는 문제를 재현하고 최종 1건만 생성되도록 개선
 
 ### ERP 시스템 &nbsp;[🔗](https://github.com/kimini02/mini-erp-system)
 > (한 줄 소개) &nbsp;·&nbsp; 팀 프로젝트 &nbsp;·&nbsp; 2026.0X ~ 2026.0X
