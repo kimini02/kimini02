@@ -48,7 +48,7 @@
 
 ## 💻 Project
 
-### ForenShield AI &nbsp;[🔗](https://github.com/kimini02/forenshield-ai-portfolio)
+### ForenShield AI &nbsp;[🔗](https://github.com/kimini02/forenshield-ai-portfolio) &nbsp;·&nbsp; [🎬 Demo](https://www.youtube.com/watch?v=jiSKK2kp57U)
 > AI 기반 딥페이크 탐지 및 디지털 증거 무결성 검증 플랫폼 &nbsp;·&nbsp; 팀 프로젝트 &nbsp;·&nbsp; 2026.05 ~ 2026.07 &nbsp;·&nbsp; 최우수상
 
 - **조회 성능** — 사건 목록 조회 범위를 DB Paging으로 줄여 p95 3.23s → 0.40s 개선
