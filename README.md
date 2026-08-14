@@ -55,17 +55,6 @@
 - **보고서 발급** — PDF·Blockchain 처리를 별도 작업으로 분리해 5초 외부 지연 시 승인 Transaction 5,172ms → 16ms
 - **중복 방지** — 동시 승인 10건에서 발급 Task가 10건 생성되는 문제를 재현하고 최종 1건만 생성되도록 개선
 
-### ERP 시스템 &nbsp;[🔗](https://github.com/kimini02/mini-erp-system)
-> (한 줄 소개) &nbsp;·&nbsp; 팀 프로젝트 &nbsp;·&nbsp; 2026.0X ~ 2026.0X
-
-- (핵심 구현 1)
-- (핵심 구현 2)
-
-### AI 인수인계 서비스 🚧 &nbsp;[🔗](https://github.com/kimini02/저장소명)
-> AI를 활용한 업무 인수인계 지원 서비스 &nbsp;·&nbsp; 개인 프로젝트 &nbsp;·&nbsp; 2026.08 ~ 진행 중
-
-- (핵심 구현 1)
-- (핵심 구현 2)
 
 <br>
 
