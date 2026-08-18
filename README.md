@@ -14,6 +14,8 @@
 
 <br>
 
+### 🔗 More About Me
+
 <strong>
   ✍️ <a href="https://mini-0923.tistory.com/">개발 블로그</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
