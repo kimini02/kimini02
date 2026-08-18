@@ -16,19 +16,6 @@
 
 <br>
 
-## 🛠 Tech Stack
-
-<br>
-
-<p align="center">
-  <strong>
-    <a href="https://mini-0923.tistory.com/">✍️ 개발 블로그</a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://app.notion.com/p/Backend-Developer-290af86352e282cf90958151fe6993d4?source=copy_link">📄 이력서</a>
-  </strong>
-</p>
-
-<br>
 
 ## 🛠 Tech Stack
 
