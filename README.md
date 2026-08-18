@@ -14,9 +14,18 @@
 
 <br>
 
-| ✍️ 개발 블로그 | 📄 이력서 |
-|:---:|:---:|
-| [Tistory 바로가기](https://mini-0923.tistory.com/) | [Notion 바로가기](https://app.notion.com/p/Backend-Developer-290af86352e282cf90958151fe6993d4?source=copy_link) |
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>✍️ 개발 블로그</h3>
+      <a href="https://mini-0923.tistory.com/"><strong>Tistory 바로가기 →</strong></a>
+    </td>
+    <td align="center" width="50%">
+      <h3>📄 이력서</h3>
+      <a href="https://app.notion.com/p/Backend-Developer-290af86352e282cf90958151fe6993d4?source=copy_link"><strong>Notion 바로가기 →</strong></a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
